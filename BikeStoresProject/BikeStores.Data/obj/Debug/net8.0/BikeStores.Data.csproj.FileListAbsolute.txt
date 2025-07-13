@@ -1,0 +1,14 @@
+C:\Users\iglis.gjoni\Desktop\EserciziC#\ASP.NET\BikeStoresProject\BikeStores.Data\bin\Debug\net8.0\BikeStores.Data.deps.json
+C:\Users\iglis.gjoni\Desktop\EserciziC#\ASP.NET\BikeStoresProject\BikeStores.Data\bin\Debug\net8.0\BikeStores.Data.runtimeconfig.json
+C:\Users\iglis.gjoni\Desktop\EserciziC#\ASP.NET\BikeStoresProject\BikeStores.Data\bin\Debug\net8.0\BikeStores.Data.dll
+C:\Users\iglis.gjoni\Desktop\EserciziC#\ASP.NET\BikeStoresProject\BikeStores.Data\bin\Debug\net8.0\BikeStores.Data.pdb
+C:\Users\iglis.gjoni\Desktop\EserciziC#\ASP.NET\BikeStoresProject\BikeStores.Data\obj\Debug\net8.0\BikeStores.Data.csproj.AssemblyReference.cache
+C:\Users\iglis.gjoni\Desktop\EserciziC#\ASP.NET\BikeStoresProject\BikeStores.Data\obj\Debug\net8.0\BikeStores.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iglis.gjoni\Desktop\EserciziC#\ASP.NET\BikeStoresProject\BikeStores.Data\obj\Debug\net8.0\BikeStores.Data.AssemblyInfoInputs.cache
+C:\Users\iglis.gjoni\Desktop\EserciziC#\ASP.NET\BikeStoresProject\BikeStores.Data\obj\Debug\net8.0\BikeStores.Data.AssemblyInfo.cs
+C:\Users\iglis.gjoni\Desktop\EserciziC#\ASP.NET\BikeStoresProject\BikeStores.Data\obj\Debug\net8.0\BikeStores.Data.csproj.CoreCompileInputs.cache
+C:\Users\iglis.gjoni\Desktop\EserciziC#\ASP.NET\BikeStoresProject\BikeStores.Data\obj\Debug\net8.0\BikeStores.Data.dll
+C:\Users\iglis.gjoni\Desktop\EserciziC#\ASP.NET\BikeStoresProject\BikeStores.Data\obj\Debug\net8.0\refint\BikeStores.Data.dll
+C:\Users\iglis.gjoni\Desktop\EserciziC#\ASP.NET\BikeStoresProject\BikeStores.Data\obj\Debug\net8.0\BikeStores.Data.pdb
+C:\Users\iglis.gjoni\Desktop\EserciziC#\ASP.NET\BikeStoresProject\BikeStores.Data\obj\Debug\net8.0\BikeStores.Data.genruntimeconfig.cache
+C:\Users\iglis.gjoni\Desktop\EserciziC#\ASP.NET\BikeStoresProject\BikeStores.Data\obj\Debug\net8.0\ref\BikeStores.Data.dll

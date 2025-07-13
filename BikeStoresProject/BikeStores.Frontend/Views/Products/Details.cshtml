@@ -1,0 +1,18 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model BikeStores.Data.Models.Product
+
+<h2>@Model.ProductName</h2>
+
+<ul>
+    <li><strong>Brand:</strong> @Model.Brand.BrandName</li>
+    <li><strong>Category:</strong> @Model.Category.CategoryName</li>
+    <li><strong>Price:</strong> @Model.ListPrice.ToString("C")</li>
+    <li><strong>Year:</strong> @Model.ModelYear</li>
+    <li><strong>Available Quantity:</strong> @Model.Stocks.Sum(s => s.Quantity)</li>
+</ul>
+
+<a asp-action="Index">Back to list</a>
