@@ -1,0 +1,6 @@
+@PrestitiBibliotecaWebAPI_HostAddress = http://localhost:5126
+
+GET {{PrestitiBibliotecaWebAPI_HostAddress}}/Libri/
+Accept: application/json
+
+###
